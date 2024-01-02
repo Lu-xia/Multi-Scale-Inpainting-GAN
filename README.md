@@ -13,10 +13,12 @@ Download the raw data from [MVTec AD](https://www.mvtec.com/company/research/dat
 
    -data\  
       -mvtec_anomaly_detection\  
-        -bottle\
+        -bottle\ 
+         
+​        -cable\ 
 
-​        -cable\
 ​         ...
+
 ​	  license.txt
 
 ​	  readme.txt       
