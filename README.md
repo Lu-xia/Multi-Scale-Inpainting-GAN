@@ -7,7 +7,6 @@
 * PyTorch 1.5
 * sklearn, matplotlib
 * kornia ( incompatible with PyTorch>=1.6.0 so far )  
-The kornia package is used for its medianfilter function. You may find a substitution if you want to get rid of this dependency.
 
 ## Data Preparation
 Download the raw data from [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad/) . Then put them under the data directory:
