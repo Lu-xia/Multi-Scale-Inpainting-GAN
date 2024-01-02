@@ -12,15 +12,14 @@
 Download the raw data from [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad/) . Then put them under the data directory:
 
    -data\  
-     -mvtec_anomaly_detection\  
-       -bottle\
+      -mvtec_anomaly_detection\  
+        -bottle\
 
+​        -cable\
 ​         ...
-​       -cable\
-​         ...
-​	license.txt
+​	  license.txt
 
-​	readme.txt       
+​	  readme.txt       
 
 https://www.mvtec.com/company/research/datasets/mvtec-ad/ MVTec AD
 
